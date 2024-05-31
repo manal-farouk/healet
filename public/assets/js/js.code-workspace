@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "js",
+			"path": "."
+		},
+		{
+			"name": "css",
+			"path": "../css"
+		},
+		{
+			"name": "fonts",
+			"path": "../fonts"
+		},
+		{
+			"name": "images",
+			"path": "../images"
+		}
+	],
+	"settings": {}
+}
